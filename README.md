@@ -1,6 +1,3 @@
-Here's the complete `README.md` content formatted in Markdown:
-
-```markdown
 # K-Means Clustering on Retail Customer Data
 
 This project implements a K-means clustering algorithm to group customers of a retail store based on their purchase history. The dataset used contains information about customers' age, annual income, and spending score.
