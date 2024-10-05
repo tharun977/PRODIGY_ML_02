@@ -91,15 +91,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [GitHub Profile](https://github.com/tharun977)
 - [LinkedIn Profile](https://www.linkedin.com/in/tharunraman?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmOLf8ms%2FT1CLZliM7nBFiQ%3D%3D)
 ```
-
-### Instructions for Adding the README to Your Repository:
-1. Create a file named `README.md` in the root directory of your project.
-2. Copy and paste the above content into the file.
-3. Save the file.
-4. Commit and push your changes to the GitHub repository:
-
-```bash
-git add README.md
-git commit -m "Add complete README file"
-git push origin main
-```
