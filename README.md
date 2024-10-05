@@ -103,5 +103,3 @@ git add README.md
 git commit -m "Add complete README file"
 git push origin main
 ```
-
-Feel free to modify any sections as needed! Let me know if you need any further assistance.
